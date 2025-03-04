@@ -47,7 +47,7 @@ To follow the steps below, ensure you have:
 
 5. **ChatBox Application**  
    - An interface that allows you to connect to OpenAI’s models with your API key.  
-   - [Download ChatBox](https://github.com/Bin-Huang/ChatGPT-ChatBox/releases)
+   - [Download ChatBox](https://chatboxai.app/en)
 
 > **Note**: If you do not have the full versions of Microsoft Word or Adobe Acrobat Pro, you can use their free trials or alternative programs that offer similar features (e.g., LibreOffice for Word-like features, other OCR tools like ABBYY FineReader, etc.). However, this guide is written with Adobe Acrobat Pro and Microsoft Word in mind.
 
@@ -78,7 +78,7 @@ To follow the steps below, ensure you have:
 ### 3.2 Install and Configure ChatBox
 
 1. **Download the Latest Release**  
-   - Go to the [ChatBox Releases Page](https://github.com/Bin-Huang/ChatGPT-ChatBox/releases).  
+   - Go to the [ChatBox Releases Page]((https://chatboxai.app/en)).  
    - Choose the correct installer for your operating system (e.g., Windows, macOS, or Linux).
 
 2. **Install ChatBox**  
