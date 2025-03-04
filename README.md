@@ -48,6 +48,7 @@ To follow the steps below, ensure you have:
 5. **ChatBox Application**  
    - An interface that allows you to connect to OpenAI’s models with your API key.  
    - [Download ChatBox](https://chatboxai.app/en)
+   - Youtube Link (https://www.youtube.com/watch?v=NSSnO-4IF5U)
 
 > **Note**: If you do not have the full versions of Microsoft Word or Adobe Acrobat Pro, you can use their free trials or alternative programs that offer similar features (e.g., LibreOffice for Word-like features, other OCR tools like ABBYY FineReader, etc.). However, this guide is written with Adobe Acrobat Pro and Microsoft Word in mind.
 
